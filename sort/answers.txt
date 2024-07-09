@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: visibly faster with sorted files than sort3, omega is n vs n square
+
+sort2 uses: Merge Sort
+
+How do you know?: takes visibly the least time to sort already sorted numbers of all 3 sizes
+
+sort3 uses: Selection Sort
+
+How do you know?: last one
